@@ -1,6 +1,6 @@
 # JavaFX Bill & Inventory Management System
 
-This is a JavaFX desktop application created as a school project.  
+This is a Java, JavaFX desktop application created as a school project.  
 It was originally developed collaboratively with classmates before I started using GitHub,  
 so this repository contains my version to showcase my work.
 
