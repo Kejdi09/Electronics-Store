@@ -22,5 +22,3 @@ It supports three types of user roles:
 - Java
 - JavaFX
 
-## Notes
-This project was a group school assignment. This repository represents my contributions and implementation.
